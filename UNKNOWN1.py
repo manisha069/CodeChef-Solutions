@@ -1,0 +1,5 @@
+a, b=map(float, input().split())
+print(a+b)
+print(a-b)
+print(a*b)
+print(round(a/b, 1))
